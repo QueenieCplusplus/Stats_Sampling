@@ -23,4 +23,23 @@
 
 (5) 統計非結果，而是輔助判斷的工具，如遵照統計結果，作出決策，喪失統計的本意。
 
+# Frequency Distribution
+
+當統計資料過於龐大且複雜時，編制次數分配表，幫助研究人員化繁為簡。
+
+Steps:
+
+1. Max-Min, 求出全距
+
+2. Class in Group, 定組數
+
+3. Group by Filter, 定組距
+
+4. Filter, 定組限
+
+5. 歸類劃記
+
+6. Sum, 計算總和
+
+
 
