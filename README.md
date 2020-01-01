@@ -1,6 +1,10 @@
 # Stats_Sampling
 統計學之取樣或抽樣
 
+# Code:
+
+https://github.com/QueenieCplusplus/Stats_Sampling/blob/master/numPy.py
+
 # Task:
 統計適用於當遇到不確定情況下，研究有關全體的 Uncertainty 現象的適用通則，藉此幫助決策者作出決定。
 
